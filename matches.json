@@ -3,7 +3,7 @@
     "descricao": "Eliminatórias Copa 2022",
     "local": {
       "nome": "Maracanã",
-      "imagem": "TODO"
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Maracan%C3%A3_2014_g.jpg/1280px-Maracan%C3%A3_2014_g.jpg"
     },
     "mandante": {
       "nome": "Brasil",
@@ -19,8 +19,8 @@
   {
     "descricao": "Eliminatórias Copa 2022",
     "local": {
-      "nome": "Maracanã",
-      "imagem": "TODO"
+      "nome": "Mineirão",
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Stadion_Belo_Horizonte_Halbfinale_WM_2014_%2822117986076%29.jpg/1024px-Stadion_Belo_Horizonte_Halbfinale_WM_2014_%2822117986076%29.jpg"
     },
     "mandante": {
       "nome": "Brasil",
@@ -37,7 +37,7 @@
     "descricao": "Eliminatórias Copa 2022",
     "local": {
       "nome": "Estadio Nacional",
-      "imagem": "TODO"
+      "imagem": "https://www.lance.com.br/files/article_main/uploads/2018/08/15/5b740ec705453.jpeg"
     },
     "mandante": {
       "nome": "Chile",
